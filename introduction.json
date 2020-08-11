@@ -1,30 +1,37 @@
 [
   {
-    "title": "Introduction",
-    "description": "DrugWars is an online game built on blockchain technology that combines MMORPG and MMORTS into one PvP gaming experience that provides monetized prizes that are awarded daily. Players receive cryptocurrency for their achievements in the game every 24 hours. Playing the game is currently completely free of charge although there are options of payment to speed up various game components and increase the chances of receiving a bigger payout at the end of the day. The player can choose in which cryptocurrency he or she will receive the prize while the default currency is set on that one of the DrugWars game. DrugWars game has been brought to you by Futureshock which already has successful projects in their history such as Fundition, a first blockchain based crowdfunding platform that you can visit here: https://fundition.io."
+    "target":".content",
+    "header":{"title": "Introduction"},
+    "content": "DrugWars is an online game built on blockchain technology that combines MMORPG and MMORTS into one PvP gaming experience that provides monetized prizes that are awarded daily. Players receive cryptocurrency for their achievements in the game every 24 hours. Playing the game is currently completely free of charge although there are options of payment to speed up various game components and increase the chances of receiving a bigger payout at the end of the day. The player can choose in which cryptocurrency he or she will receive the prize while the default currency is set on that one of the DrugWars game. DrugWars game has been brought to you by Futureshock which already has successful projects in their history such as Fundition, a first blockchain based crowdfunding platform that you can visit here: https://fundition.io."
   },
   {
-    "title": "General info",
-    "description": "The game is available at https://drugwars.io/ while there is also a discord channel https://discord.gg/vwzAdva on which players can get additional information and updates as well as steemit page https://steemit.com/@drugwars where regular news with updates are published. The basic gameplay consists of building an empire through upgrades of numerous buildings, collecting exclusive cards, and battling against other players."
+    "target":".content",
+    "header":{"title": "General info"},
+    "content": "The game is available at https://drugwars.io/ while there is also a discord channel https://discord.gg/vwzAdva on which players can get additional information and updates as well as steemit page https://steemit.com/@drugwars where regular news with updates are published. The basic gameplay consists of building an empire through upgrades of numerous buildings, collecting exclusive cards, and battling against other players."
   },
   {
-    "title": "Login and signup",
-    "description": "To be able to play the game, a person needs to log in or sign up. This is possible by connecting the DrugWars account with those on Facebook, Google, Vkontakte, or Steemit through the services of Steem Connect. Logging in to the game is completely free of charge. To log in, visit https://drugwars.io/ and click on Login, when the screen with different login options appears, click on the one you prefer and follow the logical instructions. Once a player is logged in, he or she can continue to personalize his account and settings by choosing a nickname, profile picture, and alert options. There is also a referral link available which can be sent to people so the player receives an additional bonus."
+    "target":".vue-ui-modal",
+    "header":{"title": "Login and signup"},
+    "content": "To be able to play the game, a person needs to log in or sign up. This is possible by connecting the DrugWars account with those on Facebook, Google, Vkontakte, or Steemit through the services of Steem Connect. Logging in to the game is completely free of charge. To log in, visit https://drugwars.io/ and click on Login, when the screen with different login options appears, click on the one you prefer and follow the logical instructions. Once a player is logged in, he or she can continue to personalize his account and settings by choosing a nickname, profile picture, and alert options. There is also a referral link available which can be sent to people so the player receives an additional bonus."
   },
   {
-    "title": "User Settings",
-    "description": "Settings are located in the bottom left menu on the DrugWars platform."
+    "target":"",
+    "header":{"title": "User Settings"},
+    "content": "Settings are located in the bottom left menu on the DrugWars platform."
   },
   {
-    "title": "Settings",
-    "description": "Once a player clicks on the Settings, the following screen will appear in the main frame: Players can change their nicknames no more than once a month and they can not do it for two days after their last started battle with other players. The profile picture is added by pasting down the image location a.k.a. image address. You can do this by the right click of your mouse on the image you want and choosing “copy image address”. Make sure that you use the image that is not protected by any copyright laws. DrugWars will not be responsible for any violations of copyrights done by its players. When you enter your nickname and profile image, click on EDIT. Your settings will be saved and visible in the upper right corner, above the left menu. They are in a yellow circle with your rank and level number over them. For the purposes of this guide, we have created the user “Guide” which will be used for creating needed screenshots."
+    "target":"",
+    "header":{"title": "Settings"},
+    "content": "Once a player clicks on the Settings, the following screen will appear in the main frame: Players can change their nicknames no more than once a month and they can not do it for two days after their last started battle with other players. The profile picture is added by pasting down the image location a.k.a. image address. You can do this by the right click of your mouse on the image you want and choosing “copy image address”. Make sure that you use the image that is not protected by any copyright laws. DrugWars will not be responsible for any violations of copyrights done by its players. When you enter your nickname and profile image, click on EDIT. Your settings will be saved and visible in the upper right corner, above the left menu. They are in a yellow circle with your rank and level number over them. For the purposes of this guide, we have created the user “Guide” which will be used for creating needed screenshots."
   },
   {
-    "title": "Referral",
-    "description": "Next to Settings in the main Settings frame, there is a Referral button. When you click on it, the next screen will appear in the frame: Share your referral link with your friends and receive the bonus, all you need to do is copy it and send it. When your friend clicks on that referral link, they will go through the registration process. Once they finish it, you will see their info under “YOUR REFERRALS”. There is no limit to how many players you can refer to the game."
+    "target":"",
+    "header":{"title": "Referral"},
+    "content": "Next to Settings in the main Settings frame, there is a Referral button. When you click on it, the next screen will appear in the frame: Share your referral link with your friends and receive the bonus, all you need to do is copy it and send it. When your friend clicks on that referral link, they will go through the registration process. Once they finish it, you will see their info under “YOUR REFERRALS”. There is no limit to how many players you can refer to the game."
   },
   {
-    "title": "Steem account",
-    "description": "DrugWars game is built on steem blockchain and is considered to be between a normal game and a DApp. Steem blockchain was created on March 24, 2016 and it is the first social blockchain with revenue streams that rewards users for sharing content. It powers real applications through social apps such as steemit (main platform of steem). For more information about steem, visit https://steem.com/ and https://steemit.com. In short, steemit is a crypto social media platform that awards its users with cryptocurrency by combining social media and creating content with curation and contributions to the network that are in turn, awarded with three digital tokens of the Steemit ecosystem: STEEM, Steem Power (SP) and Steem Dollars."
+    "target":"",
+    "header":{"title": "Steem account"},
+    "content": "DrugWars game is built on steem blockchain and is considered to be between a normal game and a DApp. Steem blockchain was created on March 24, 2016 and it is the first social blockchain with revenue streams that rewards users for sharing content. It powers real applications through social apps such as steemit (main platform of steem). For more information about steem, visit https://steem.com/ and https://steemit.com. In short, steemit is a crypto social media platform that awards its users with cryptocurrency by combining social media and creating content with curation and contributions to the network that are in turn, awarded with three digital tokens of the Steemit ecosystem: STEEM, Steem Power (SP) and Steem Dollars."
   }
 ]
