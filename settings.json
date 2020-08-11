@@ -1,0 +1,18 @@
+[
+    {
+      "target":"#settings",
+      "header":{"title": "Settings"},
+      "content": "Once a player clicks on the Settings, the following screen will appear in the main frame: Players can change their nicknames no more than once a month and they can not do it for two days after their last started battle with other players. The profile picture is added by pasting down the image location a.k.a. image address. You can do this by the right click of your mouse on the image you want and choosing “copy image address”. Make sure that you use the image that is not protected by any copyright laws. DrugWars will not be responsible for any violations of copyrights done by its players. When you enter your nickname and profile image, click on EDIT. Your settings will be saved and visible in the upper right corner, above the left menu. They are in a yellow circle with your rank and level number over them. For the purposes of this guide, we have created the user “Guide” which will be used for creating needed screenshots."
+    },
+    {
+      "target":"#referral",
+      "header":{"title": "Referral"},
+      "content": "Next to Settings in the main Settings frame, there is a Referral button. When you click on it, the next screen will appear in the frame: Share your referral link with your friends and receive the bonus, all you need to do is copy it and send it. When your friend clicks on that referral link, they will go through the registration process. Once they finish it, you will see their info under “YOUR REFERRALS”. There is no limit to how many players you can refer to the game."
+    },
+    {
+      "target":"",
+      "header":{"title": "Steem account"},
+      "content": "DrugWars game is built on steem blockchain and is considered to be between a normal game and a DApp. Steem blockchain was created on March 24, 2016 and it is the first social blockchain with revenue streams that rewards users for sharing content. It powers real applications through social apps such as steemit (main platform of steem). For more information about steem, visit https://steem.com/ and https://steemit.com. In short, steemit is a crypto social media platform that awards its users with cryptocurrency by combining social media and creating content with curation and contributions to the network that are in turn, awarded with three digital tokens of the Steemit ecosystem: STEEM, Steem Power (SP) and Steem Dollars."
+    }
+  ]
+  
